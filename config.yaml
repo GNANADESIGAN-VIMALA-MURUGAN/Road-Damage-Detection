@@ -1,0 +1,59 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ab:
+      email: a@gmail.com
+      logged_in: false
+      name: ab
+      password: $2b$12$/aq2oZvluDkts2GkuiZROeKIW.0QTk9A2k/dsy/7md2PdRsZ8Ltou
+    abc:
+      email: 123@gmail.com
+      logged_in: false
+      name: abc
+      password: $2b$12$bsEXfgl2e3H0PhosxPRxrO1YrMAhiK1KLMm0CvdvjecfrThYo3n0y
+    bala09:
+      email: mbala@gmail.com
+      logged_in: false
+      name: Balasubramani
+      password: $2b$12$TYBBdn.uS816dK0YgGELAOy0mFGEXquBbGxZHz4yJwXd.wlKZUwAO
+    balasubramani0902:
+      email: mbalasubramani0902@gmail.com
+      logged_in: false
+      name: Balasubramani
+      password: $2b$12$S1Pksh8cjzP0sPh1jR5TBOeNKP08MCMBnZ.9lDV.Yrhk3oc0RZCTO
+    check:
+      email: check@gmail.com
+      logged_in: true
+      name: check
+      password: $2b$12$9RWCwbWw54RpLhLPxu542.LfYUarawQwANkCMnegVklAEunl20kXO
+    jsmith:
+      email: jsmith@gmail.com
+      logged_in: false
+      name: John Smith
+      password: $2b$12$IBv6v6PakZzAqnKZQNIpqeYbWRj1h5IGlfsEUcp6r09/PRKNwZANq
+    mba:
+      email: mba@gmail.com
+      logged_in: false
+      name: mba
+      password: $2b$12$Lt0Vu/cLqGgwFkSAkUL/TO9.EfKItSe.e9e1XTPkQf7uNk9SKng06
+    rbriggs:
+      email: rbriggs@gmail.com
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$.WDEDzIn5IC/nG0WxKe2ne7ntsojqyGNiGfkjZLbT9yjDhxMORJFi
+    sam:
+      email: xyz@gmail.com
+      logged_in: false
+      name: sam joshwal
+      password: $2b$12$3KZ3gvuFU4wtbCqvqqgL9OZEh5jCBZ5.afwz0cEAK2q8AcnPzs5Qe
+    surenthar:
+      email: surenthar@gmail.com
+      logged_in: false
+      name: surenthar
+      password: $2b$12$yf7M0Kk6aZvx6nEgqUNPFOtpBYM9TsTL.fPZ/9ThzL7JNIlAWcl8a
+preauthorized:
+  emails:
+  - melsby@gmail.com
